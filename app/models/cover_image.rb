@@ -1,0 +1,4 @@
+class CoverImage < ApplicationRecord
+
+  mount_uploader :image, ImageUploader
+end
