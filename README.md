@@ -22,3 +22,4 @@ Things you may want to cover:
   Go to in browser: http://localhost:8080
 
 * For production please provide 2 keys and one region into config/initializers/s3.rb
+test1
