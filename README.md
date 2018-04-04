@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * For production please provide 2 keys and one region into config/initializers/s3.rb
 test1
+
+test1
